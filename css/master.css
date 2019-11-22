@@ -1,0 +1,58 @@
+body{
+  background: #d3ab90;
+}
+
+section{
+  min-height: 90vh;
+
+}
+.content{
+  background: #000;
+  color: #fff;
+  font-size: 1,25em;
+  max-width: 680px;
+}
+#fable01{
+  border: 12px solid white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#fable01 h1{
+  font-size: 2em;
+  color: white;
+ text-align: center;
+ color: #black;
+}
+
+#fable02{
+  border: 12px solid #4987b2;
+}
+
+
+
+#fable02 h1{
+  font-size: 2em;
+  color: #4987b2;
+  text-align: center;
+
+}
+#fable03{
+  border: 12px solid white;
+}
+#fable03 h1{
+  font-size: 2em;
+  color: white;
+    text-align:center;
+}
+.conclusion{
+  background: #efef;
+  padding: 6px;
+  color: #black;
+}
+
+.final{
+  background: #9ac5e2;
+  padding: 6px;
+  color: #black;
+}
